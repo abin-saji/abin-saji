@@ -1,42 +1,21 @@
-# Hi 👋 I'm Abin
+# 💫 About Me:
+# Hi, I'm Abin <br><br> BCA Student  <br> Learning Java and Android Development  <br> Currently building: AutoCare (Vehicle maintenance reminder app)<br><br>##  Skills<br>- Java<br>- Android Development<br>- HTML<br>- Git & GitHub<br><br>##  Currently Learning<br>- Advanced Java<br>- Android App Development<br>- Software Development Fundamentals<br><br>##  Interests<br>- Technology<br>- Startups<br>- Traveling<br>- Music
 
-🎓 BCA Student  
-💻 Learning Software Development  
-🌱 Currently learning **Java, Android Development**
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theabinsaji_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abin-saji-94b141281/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/abinsaji329) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Itchy_Astronomer8774) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/theabinsaji) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abinsaji329@gmail.com) 
 
-## 🚀 About Me
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=abin-saji&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=abin-saji&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abin-saji&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-- 📱 Building Android apps
-- 💡 Interested in software development and startups
-- 🌍 Love traveling and exploring nature
-
----
-
-## 🛠 Tech Stack
-
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
-![Android](https://img.shields.io/badge/Android-green?style=for-the-badge&logo=android)
-![HTML](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=abin-saji&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=abin-saji&icon=10&color=0)](https://visitcount.itsvg.in)
 
-## 📊 GitHub Stats
-
-![Abin's GitHub stats](https://github-readme-stats.vercel.app/api?username=abin-saji&show_icons=true&theme=tokyonight)
-
----
-
-## 📈 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abin-saji&layout=compact&theme=tokyonight)
-
----
-
-## 🌐 Connect With Me
-
-- https://www.linkedin.com/in/abin-saji-94b141281/
-- https://www.instagram.com/theabinsaji_/
-- abinsaji329@gmail.com
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
