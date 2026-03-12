@@ -11,7 +11,6 @@
 - 📱 Building Android apps
 - 💡 Interested in software development and startups
 - 🌍 Love traveling and exploring nature
-- 🎹 Learning piano and music
 
 ---
 
@@ -38,6 +37,6 @@
 
 ## 🌐 Connect With Me
 
-- 
-- 
-- 
+- https://www.linkedin.com/in/abin-saji-94b141281/
+- https://www.instagram.com/theabinsaji_/
+- abinsaji329@gmail.com
